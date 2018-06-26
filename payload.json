@@ -1,0 +1,11 @@
+{
+  "branch": "master",
+  "commit_message": "some commit message",
+  "actions": [
+    {
+      "action": "create",
+      "file_path": "foo/bar.txt",
+      "content": "# heading\n\nthe quick brow fÃx jumped over the lazy dog.\n"
+    }
+  ]
+}
